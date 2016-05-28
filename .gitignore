@@ -1,0 +1,4 @@
+*.pyc
+app.db
+virtenv
+clipperz.egg-info
